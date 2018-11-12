@@ -1,3 +1,3 @@
 # Personal Webpage
 
-(https://yuanjiezhao.github.io/)
+https://yuanjiezhao.github.io/
