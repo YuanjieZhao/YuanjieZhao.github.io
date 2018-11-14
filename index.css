@@ -18,14 +18,15 @@ body {
 }
 
 .about {
-	font-size: 1.2rem;
-	line-height: 1.9rem;
+	font-size: 1.1rem;
+	line-height: 1.6rem;
 	text-align: justify;
 }
 
 ul {
 	list-style: none;
-	padding-left: 0;	
+	padding-left: 0;
+	font-size: 1.1rem;
 }
 
 li {
